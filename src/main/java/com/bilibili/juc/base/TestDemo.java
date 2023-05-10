@@ -21,5 +21,6 @@ public class TestDemo
     public static void test() {
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("小孩子");
     }
 }
