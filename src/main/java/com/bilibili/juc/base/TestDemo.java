@@ -18,4 +18,7 @@ public class TestDemo
         System.out.println("老夫代码报错了！");
     }
 
+    public static void test() {
+
+    }
 }
