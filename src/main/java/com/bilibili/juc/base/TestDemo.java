@@ -19,6 +19,6 @@ public class TestDemo
     }
 
     public static void test() {
-
+        System.out.println("master");
     }
 }
