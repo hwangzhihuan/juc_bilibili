@@ -11,6 +11,7 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 public class TestDemo
 {
+
     volatile int age;
 
     public static void main(String[] args)
@@ -19,6 +20,6 @@ public class TestDemo
     }
 
     public static void test() {
-
+        System.out.println("hot-fix");
     }
 }
