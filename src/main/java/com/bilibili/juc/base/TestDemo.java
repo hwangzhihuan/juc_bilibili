@@ -13,16 +13,11 @@ public class TestDemo
 {
 
     volatile int age;
+    
+    volatile double salary;
 
     public static void main(String[] args)
     {
         System.out.println("老夫代码报错了！");
-    }
-
-    public static void test() {
-        System.out.println("hot-fix");
-
-        System.out.println("还是要修改");
-        System.out.println("4919");
     }
 }
